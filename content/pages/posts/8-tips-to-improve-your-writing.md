@@ -1,6 +1,5 @@
 ---
 title: 8 Tips to Improve Your Writing
-subtitle: lorem-ipsum
 date: '2021-06-04'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
