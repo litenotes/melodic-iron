@@ -12,6 +12,8 @@ seo:
   type: stackbit_page_meta
 layout: post
 ---
+##
+
 ## Good writing is good thinking.
 
 Too often, I see people simply throw everything they know on the page with nothing connecting the dots. Make sure your ideas are clear before trying to communicate them, and that the flow of thoughts you want to communicate proceeds in a clear and easily decipherable pattern. Make sure that each sentence and paragraph flows naturally and rationally from the one before it. The reader should be able to easily retrace the path you followed to arrive at your conclusion.
